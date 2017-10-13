@@ -41,3 +41,10 @@ h4 {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-repeat: no-repeat;
 }
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
